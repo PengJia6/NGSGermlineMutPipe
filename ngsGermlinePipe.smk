@@ -76,10 +76,10 @@ for ref_name in config["ref"]:
                     targets.append(config["dir_variants"] +
                                    "{cohort}/{sample}/{caller}/{caller}_details/{cohort}.{sample}.{prefix}.{caller}.raw.vcf.gz".format(
                                        sample=sample, prefix=this_prefix, cohort=cohort, caller=caller))
-                # if caller in ["deepvariant", "gatk", "varscan"]:
-                #     targets.append((config["dir_variants"] +
-                #                     "final/{cohort}.{prefix}.{caller}.raw.vcf.gz".format(
-                #                         prefix=this_prefix,cohort=cohort,caller=caller)))
+                if caller in ["deepvariant", "gatk", "varscan"]:
+                    targets.append((config["dir_variants"] +
+                                    "final/{cohort}.{prefix}.{caller}.raw.vcf.gz".format(
+                                        prefix=this_prefix,cohort=cohort,caller=caller)))
 
 # bams_hq[aligner] = bams_hq_this_aligner
 
