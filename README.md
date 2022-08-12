@@ -28,7 +28,7 @@ Germline mutation pipeline for Next generation sequencing analysis.
   - pindel
   - ...
 ## Contribution 
-   If you want to apply other tools to evaluate the genome, we encourage you to pull a request or email us.
+   If you want to apply other tools to mutations with NGS reads, we encourage you to pull a request or email us.
    
 
 ## Contact  
