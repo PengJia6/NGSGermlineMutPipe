@@ -1,0 +1,99 @@
+CHN_Multi_Ethnic:
+  CNCSM0001:
+    sex: "M"
+    ethnic: "ChaoXian"
+    ethnic_abbr: "CS"
+    path:
+      repeat1:
+        R1: /data/DATA/CHN_Multi_Ethnic/RY05_ChaoX_Male_CNCSM0001/ngs/D2013244B-GQ_R1.fq.gz
+        R2: /data/DATA/CHN_Multi_Ethnic/RY05_ChaoX_Male_CNCSM0001/ngs/D2013244B-GQ_R2.fq.gz
+  CNHUM0001:
+    sex: "M"
+    ethnic: "Hui"
+    ethnic_abbr: "HU"
+    path:
+       repeat1:
+         R1: /data/DATA/CHN_Multi_Ethnic/RY09_Hui_Male_CNHUM0001/ngs/D2013248B-GQ_R1.fq.gz
+         R2: /data/DATA/CHN_Multi_Ethnic/RY09_Hui_Male_CNHUM0001/ngs/D2013248B-GQ_R2.fq.gz
+  CNKGF0001:
+    sex: "F"
+    ethnic: "KeErKeZi"
+    ethnic_abbr: "KG"
+    path:
+      repeat1:
+        R1: /data/DATA/CHN_Multi_Ethnic/RY06_KErK_Female_CNKGF0001/ngs/D2013245B-GQ_R1.fq.gz
+        R2: /data/DATA/CHN_Multi_Ethnic/RY06_KErK_Female_CNKGF0001/ngs/D2013245B-GQ_R2.fq.gz
+
+  CNMGF0001:
+    sex: "F"
+    ethnic: "MengGu"
+    ethnic_abbr: "MG"
+    path:
+     repeat1:
+       R1: /data/DATA/CHN_Multi_Ethnic/RY10_Meng_Female_CNMGF0001/ngs/D2013249B-GQ_R1.fq.gz
+       R2: /data/DATA/CHN_Multi_Ethnic/RY10_Meng_Female_CNMGF0001/ngs/D2013249B-GQ_R2.fq.gz
+  CNZHF0001:
+    sex: "F"
+    ethnic: "Zhuang"
+    ethnic_abbr: "ZH"
+    path:
+      repeat1:
+        R1: /data/DATA/CHN_Multi_Ethnic/RY08_Zhuang_Female_CNZHF0001/ngs/D2013247B-GQ_R1.fq.gz
+        R2: /data/DATA/CHN_Multi_Ethnic/RY08_Zhuang_Female_CNZHF0001/ngs/D2013247B-GQ_R2.fq.gz
+
+  CNYAM0001:
+    sex: "M"
+    ethnic: "Yao"
+    ethnic_abbr: "YA"
+    path:
+      repeat1:
+        R1: /data/DATA/CHN_Multi_Ethnic/RY01_Yao_Male_CNYAM0001/ngs/D2013240B-GQ_R1.fq.gz
+        R2: /data/DATA/CHN_Multi_Ethnic/RY01_Yao_Male_CNYAM0001/ngs/D2013240B-GQ_R2.fq.gz
+
+  CNUGM0001:
+    sex: "M"
+    ethnic: "WeiWuEr"
+    ethnic_abbr: "UG"
+    path:
+      repeat1:
+        R1: /data/DATA/CHN_Multi_Ethnic/RY02_Wei_Male_CNUGM0001/ngs/D2013241B-GQ_R1.fq.gz
+        R2: /data/DATA/CHN_Multi_Ethnic/RY02_Wei_Male_CNUGM0001/ngs/D2013241B-GQ_R2.fq.gz
+
+  CNSHM0001:
+    sex: "M"
+    ethnic: "She"
+    ethnic_abbr: "SH"
+    path:
+      repeat1:
+        R1: /data/DATA/CHN_Multi_Ethnic/RY03_She_Male_CNSHM0001/ngs/D2013242B-GQ_R1.fq.gz
+        R2: /data/DATA/CHN_Multi_Ethnic/RY03_She_Male_CNSHM0001/ngs/D2013242B-GQ_R2.fq.gz
+
+
+  CNMHM0001:
+    sex: "M"
+    ethnic: "Miao"
+    ethnic_abbr: "MH"
+    path:
+      repeat1:
+        R1: /data/DATA/CHN_Multi_Ethnic/RY04_Miao_Male_CNMHM0001/ngs/D2013243B-GQ_R1.fq.gz
+        R2: /data/DATA/CHN_Multi_Ethnic/RY04_Miao_Male_CNMHM0001/ngs/D2013243B-GQ_R2.fq.gz
+
+
+  CNKZF0001:
+    sex: "F"
+    ethnic: "Ha"
+    ethnic_abbr: "HA"
+    path:
+      repeat1:
+        R1: /data/DATA/CHN_Multi_Ethnic/RY07_Ha_Female_CNKZF0001/ngs/D2013246B-GQ_R1.fq.gz
+        R2: /data/DATA/CHN_Multi_Ethnic/RY07_Ha_Female_CNKZF0001/ngs/D2013246B-GQ_R2.fq.gz
+
+  CNTJM0001:
+    sex: "M"
+    ethnic: "TuJia"
+    ethnic_abbr: "TJ"
+    path:
+      repeat1:
+        R1: /data/DATA/CHN_Multi_Ethnic/RY11_TuJia_Male_CNTJM0001/ngs/D2100091F-GQ_L3_134A34.R1.fastq.gz
+        R2: /data/DATA/CHN_Multi_Ethnic/RY11_TuJia_Male_CNTJM0001/ngs/D2100091F-GQ_L3_134A34.R2.fastq.gz
+

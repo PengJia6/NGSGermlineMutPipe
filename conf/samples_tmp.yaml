@@ -1,0 +1,33 @@
+LCL5:
+  sex: "F"
+  path:
+    - "/home/DATA/Chinese_Quartet/ref_based_analysis/data_pre/aligned_reads_tmp/LCL5_m64154_210327_091530.ccs.fq.gz"
+    - "/home/DATA/Chinese_Quartet/ref_based_analysis/data_pre/aligned_reads_tmp/LCL5_m64154_210328_153009.ccs.fq.gz"
+    - "/home/DATA/Chinese_Quartet/ref_based_analysis/data_pre/aligned_reads_tmp/LCL5_m64154_210403_042108.ccs.fq.gz"
+    - "/home/DATA/Chinese_Quartet/ref_based_analysis/data_pre/aligned_reads_tmp/LCL5_m64236_210323_112137.ccs.fq.gz"
+    - "/home/DATA/Chinese_Quartet/ref_based_analysis/data_pre/aligned_reads_tmp/LCL5_m64236_210330_051441.ccs.fq.gz"
+LCL6:
+  sex: "F"
+  path:
+    - "/home/DATA/Chinese_Quartet/ref_based_analysis/data_pre/aligned_reads_tmp/LCL6_m64154_210318_093818.ccs.fq.gz"
+    - "/home/DATA/Chinese_Quartet/ref_based_analysis/data_pre/aligned_reads_tmp/LCL6_m64154_210322_170722.ccs.fq.gz"
+    - "/home/DATA/Chinese_Quartet/ref_based_analysis/data_pre/aligned_reads_tmp/LCL6_m64154_210323_233537.ccs.fq.gz"
+    - "/home/DATA/Chinese_Quartet/ref_based_analysis/data_pre/aligned_reads_tmp/LCL6_m64154_210325_060339.ccs.fq.gz"
+    - "/home/DATA/Chinese_Quartet/ref_based_analysis/data_pre/aligned_reads_tmp/LCL6_m64154_210401_215258.ccs.fq.gz"
+LCL7:
+  sex: "M"
+  path:
+    - "/home/DATA/Chinese_Quartet/ref_based_analysis/data_pre/aligned_reads_tmp/LCL7_P92Y21388420_r64054_20210322_005620_3_C02.ccs.fq.gz"
+    - "/home/DATA/Chinese_Quartet/ref_based_analysis/data_pre/aligned_reads_tmp/LCL7_P92Y21388420_r64116_20210320_045347_2_G02.ccs.fq.gz"
+    - "/home/DATA/Chinese_Quartet/ref_based_analysis/data_pre/aligned_reads_tmp/LCL7_P92Y21388420_r64116_20210320_045347_3_H02.ccs.fq.gz"
+    - "/home/DATA/Chinese_Quartet/ref_based_analysis/data_pre/aligned_reads_tmp/LCL7_P92Y21388420_r64118_20210319_075926_1_A02.ccs.fq.gz"
+    - "/home/DATA/Chinese_Quartet/ref_based_analysis/data_pre/aligned_reads_tmp/LCL7_P92Y21388420_r64118_20210319_075926_2_B02.ccs.fq.gz"
+
+LCL8:
+  sex: "M"
+  path:
+    - "/home/DATA/Chinese_Quartet/ref_based_analysis/data_pre/aligned_reads_tmp/LCL8_P92Y21388419_r64030_20210317_083545_1_F02.ccs.fq.gz"
+    - "/home/DATA/Chinese_Quartet/ref_based_analysis/data_pre/aligned_reads_tmp/LCL8_P92Y21388419_r64030_20210317_083545_2_G02.ccs.fq.gz"
+    - "/home/DATA/Chinese_Quartet/ref_based_analysis/data_pre/aligned_reads_tmp/LCL8_P92Y21388419_r64030_20210322_004723_3_C02.ccs.fq.gz"
+    - "/home/DATA/Chinese_Quartet/ref_based_analysis/data_pre/aligned_reads_tmp/LCL8_P92Y21388419_r64031_20210317_061746_1_F02.ccs.fq.gz"
+    - "/home/DATA/Chinese_Quartet/ref_based_analysis/data_pre/aligned_reads_tmp/LCL8_P92Y21388419_r64054_20210317_062126_1_F02.ccs.fq.gz"

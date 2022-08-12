@@ -1,0 +1,21 @@
+project: chinese_quartet
+
+bam_phasing: NO # Yes/No
+markdup: Yes
+bam_left_align: NO # Yes/No
+aligners:
+  - "bwa"
+bam_phasing_caller: dv  # dv
+callers:
+#  - "gatk"
+#  - "varscan"
+  - "deepvariant"
+  - "manta"
+  - "delly"
+  - "svaba"
+  - "smoove"
+  - "pindel"
+
+svcallers:
+  - "manta"
+dir_data: "/data/home/pengjia/Project_Human_DATA/ChineseQuartet/ref_based_analysis/"

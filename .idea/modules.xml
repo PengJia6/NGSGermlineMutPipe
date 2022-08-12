@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/GermlineMutPipe.iml" filepath="$PROJECT_DIR$/.idea/GermlineMutPipe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/NGSGermlineMutPipe.iml" filepath="$PROJECT_DIR$/.idea/NGSGermlineMutPipe.iml" />
     </modules>
   </component>
 </project>

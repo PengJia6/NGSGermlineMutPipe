@@ -1,0 +1,45 @@
+ChineseQuartet:
+  LCL5:
+   path:
+    LCL5_1:
+      R1: "/data/DATA/ChineseQuartet/RAWDATA/NGS/fastq/Quartet_DNA_ILM_Nova_BRG_LCL5_1_20180930_R1.fastq.gz"
+      R2: "/data/DATA/ChineseQuartet/RAWDATA/NGS/fastq/Quartet_DNA_ILM_Nova_BRG_LCL5_1_20180930_R2.fastq.gz"
+    LCL5_2:
+      R1: "/data/DATA/ChineseQuartet/RAWDATA/NGS/fastq/Quartet_DNA_ILM_Nova_BRG_LCL5_2_20180930_R1.fastq.gz"
+      R2: "/data/DATA/ChineseQuartet/RAWDATA/NGS/fastq/Quartet_DNA_ILM_Nova_BRG_LCL5_2_20180930_R2.fastq.gz"
+    LCL5_3:
+      R1: "/data/DATA/ChineseQuartet/RAWDATA/NGS/fastq/Quartet_DNA_ILM_Nova_BRG_LCL5_3_20180930_R1.fastq.gz"
+      R2: "/data/DATA/ChineseQuartet/RAWDATA/NGS/fastq/Quartet_DNA_ILM_Nova_BRG_LCL5_3_20180930_R2.fastq.gz"
+  LCL6:
+   path:
+    LCL6_1:
+      R1: "/data/DATA/ChineseQuartet/RAWDATA/NGS/fastq/Quartet_DNA_ILM_Nova_BRG_LCL6_1_20180930_R1.fastq.gz"
+      R2: "/data/DATA/ChineseQuartet/RAWDATA/NGS/fastq/Quartet_DNA_ILM_Nova_BRG_LCL6_1_20180930_R2.fastq.gz"
+    LCL6_2:
+      R1: "/data/DATA/ChineseQuartet/RAWDATA/NGS/fastq/Quartet_DNA_ILM_Nova_BRG_LCL6_2_20180930_R1.fastq.gz"
+      R2: "/data/DATA/ChineseQuartet/RAWDATA/NGS/fastq/Quartet_DNA_ILM_Nova_BRG_LCL6_2_20180930_R2.fastq.gz"
+    LCL6_3:
+      R1: "/data/DATA/ChineseQuartet/RAWDATA/NGS/fastq/Quartet_DNA_ILM_Nova_BRG_LCL6_3_20180930_R1.fastq.gz"
+      R2: "/data/DATA/ChineseQuartet/RAWDATA/NGS/fastq/Quartet_DNA_ILM_Nova_BRG_LCL6_3_20180930_R2.fastq.gz"
+  LCL7:
+   path:
+    LCL7_1:
+      R1: "/data/DATA/ChineseQuartet/RAWDATA/NGS/fastq/Quartet_DNA_ILM_Nova_BRG_LCL7_1_20180930_R1.fastq.gz"
+      R2: "/data/DATA/ChineseQuartet/RAWDATA/NGS/fastq/Quartet_DNA_ILM_Nova_BRG_LCL7_1_20180930_R2.fastq.gz"
+    LCL7_2:
+      R1: "/data/DATA/ChineseQuartet/RAWDATA/NGS/fastq/Quartet_DNA_ILM_Nova_BRG_LCL7_2_20180930_R1.fastq.gz"
+      R2: "/data/DATA/ChineseQuartet/RAWDATA/NGS/fastq/Quartet_DNA_ILM_Nova_BRG_LCL7_2_20180930_R2.fastq.gz"
+    LCL7_3:
+      R1: "/data/DATA/ChineseQuartet/RAWDATA/NGS/fastq/Quartet_DNA_ILM_Nova_BRG_LCL7_3_20180930_R1.fastq.gz"
+      R2: "/data/DATA/ChineseQuartet/RAWDATA/NGS/fastq/Quartet_DNA_ILM_Nova_BRG_LCL7_3_20180930_R2.fastq.gz"
+  LCL8:
+   path:
+    LCL8_1:
+      R1: "/data/DATA/ChineseQuartet/RAWDATA/NGS/fastq/Quartet_DNA_ILM_Nova_BRG_LCL8_1_20180930_R1.fastq.gz"
+      R2: "/data/DATA/ChineseQuartet/RAWDATA/NGS/fastq/Quartet_DNA_ILM_Nova_BRG_LCL8_1_20180930_R2.fastq.gz"
+    LCL8_2:
+      R1: "/data/DATA/ChineseQuartet/RAWDATA/NGS/fastq/Quartet_DNA_ILM_Nova_BRG_LCL8_2_20180930_R1.fastq.gz"
+      R2: "/data/DATA/ChineseQuartet/RAWDATA/NGS/fastq/Quartet_DNA_ILM_Nova_BRG_LCL8_2_20180930_R2.fastq.gz"
+    LCL8_3:
+      R1: "/data/DATA/ChineseQuartet/RAWDATA/NGS/fastq/Quartet_DNA_ILM_Nova_BRG_LCL8_3_20180930_R1.fastq.gz"
+      R2: "/data/DATA/ChineseQuartet/RAWDATA/NGS/fastq/Quartet_DNA_ILM_Nova_BRG_LCL8_3_20180930_R2.fastq.gz"
