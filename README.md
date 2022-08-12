@@ -2,7 +2,7 @@
 
 Germline mutation pipeline for Next generation sequencing analysis.
 
-##Quick start
+## Quick start
 ### 1. change the following configure files according to you environment.
    * conf/config.yaml  (control the software you want to use)
    * conf/reference.yaml (configure the reference you want to use)
@@ -11,7 +11,7 @@ Germline mutation pipeline for Next generation sequencing analysis.
    * rules/software.smk (configure the absolute path of your software)
    
 
-###2. run with snakemake           
+### 2. run with snakemake           
 
        nohup snakemake -s ngsGermlinePipe.smk -j 10 -k --ri >sublog 2>&1 &
        nohup snakemake -s ngsGermlinePipe.smk -j 10 -k --ri --cluster "qsub -l nodes=1:ppn=20 -l walltime=999:00:00" >sublog 2>&1 & 
